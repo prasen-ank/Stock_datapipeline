@@ -1,0 +1,7 @@
+confluent-kafka
+yfinance
+pandas
+boto3
+snowflake-connector-python
+minio
+pyspark
